@@ -88,4 +88,4 @@ Game assets: analogStudios_
 Made by Abdullah Faisal  
 Computer Science Student, Lahore Garrison University  
 
-LinkedIn: [PASTE_YOUR_LINKEDIN_LINK_HERE](https://www.linkedin.com/in/abdullah-faisal-a8146930a/)
+LinkedIn: [Abdullah's Profile](https://www.linkedin.com/in/abdullah-faisal-a8146930a/)
